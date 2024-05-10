@@ -1,6 +1,6 @@
 name: core
 apiVersion: v1
-version: 2.7.6+carbide.1
+version: 2.7.6
 appVersion: 5.3.2
 description: Helm chart for NeuVector's core services
 home: https://neuvector.com
